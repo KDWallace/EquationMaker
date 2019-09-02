@@ -1,0 +1,8 @@
+Configuration file for the maths questions program!
+Here you'll be able to modify what questions will be asked.
+Just change the number next to the question type.
+Note that the program will read the numbers in order in the file.
+
+Easy questions = 5
+Medium questions = 3
+Hard questions = 2
